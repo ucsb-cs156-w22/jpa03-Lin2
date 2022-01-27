@@ -1,5 +1,5 @@
 # demo-spring-react-example: dsre
-[![codecov](https://codecov.io/gh/ucsb-cs156-w22/jpa03-Lin2/branch/master/graph/badge.svg?token=MObMpFu74O)](https://codecov.io/gh/ucsb-cs156-w22/jpa03-Lin2)
+[![codecov](https://codecov.io/gh/ucsb-cs156-w22/jpa03-Lin2/branch/main/graph/badge.svg?token=MObMpFu74O)](https://codecov.io/gh/ucsb-cs156-w22/jpa03-Lin2)
 
 
 Storybook is here:
