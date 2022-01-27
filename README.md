@@ -1,6 +1,7 @@
 # demo-spring-react-example: dsre
 [![codecov](https://codecov.io/gh/ucsb-cs156-w22/jpa03-Lin2/branch/main/graph/badge.svg?token=MObMpFu74O)](https://codecov.io/gh/ucsb-cs156-w22/jpa03-Lin2)
 
+Link to this current repo: https://github.com/ucsb-cs156-w22/jpa03-Lin2
 
 Storybook is here:
 * Production: <https://ucsb-cs156-w22.github.io/jpa03-Lin2-docs/storybook>
